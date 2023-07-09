@@ -1,0 +1,231 @@
+09.07.2023; 20:30:20; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+09.07.2023; 20:28:33; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+09.07.2023; 20:28:33; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+09.07.2023; 20:27:39; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+09.07.2023; 20:27:31; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+09.07.2023; 20:27:31; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+09.07.2023; 20:23:24; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+09.07.2023; 20:23:14; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+09.07.2023; 20:23:13; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+09.07.2023; 20:10:20; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+09.07.2023; 20:08:43; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+09.07.2023; 20:08:43; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+09.07.2023; 20:07:14; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+09.07.2023; 20:05:27; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+09.07.2023; 20:05:27; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+09.07.2023; 20:02:45; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+09.07.2023; 20:01:06; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+09.07.2023; 20:01:06; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+09.07.2023; 20:00:22; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+09.07.2023; 19:59:39; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+09.07.2023; 19:59:39; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+09.07.2023; 19:56:19; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+09.07.2023; 19:55:55; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+09.07.2023; 19:55:55; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+09.07.2023; 19:52:06; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+09.07.2023; 19:51:46; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+09.07.2023; 19:51:46; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+09.07.2023; 19:33:12; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+09.07.2023; 19:31:58; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+09.07.2023; 19:31:58; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 16:52:14; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 16:49:16; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 16:49:16; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 16:49:00; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 16:48:01; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 16:48:01; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 16:46:29; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 16:46:29; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 16:46:25; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 16:46:07; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 16:46:07; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 16:46:01; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 16:45:49; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 16:45:49; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 16:45:43; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 16:45:18; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 16:45:18; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 16:45:12; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 16:44:41; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 16:44:41; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 16:44:23; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 16:42:45; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 16:42:45; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 16:42:14; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 16:42:14; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 16:42:14; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 16:39:42; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 16:34:33; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 16:34:33; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 16:32:21; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 16:32:21; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 16:32:15; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 16:31:47; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 16:31:47; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 16:31:40; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 16:30:23; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 16:30:23; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 16:29:19; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 16:28:55; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 16:28:55; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 16:27:56; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 16:27:38; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 16:27:38; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 16:26:52; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 16:25:36; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 16:25:36; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 16:23:40; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 16:22:44; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 16:22:44; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 16:20:52; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 16:20:52; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 16:20:48; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 16:16:38; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 16:16:38; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 16:16:34; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 16:16:06; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 16:16:06; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 16:08:44; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 16:08:44; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 16:08:37; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 16:07:43; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 16:07:43; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 16:07:26; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 16:07:26; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 16:05:00; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 16:05:00; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 16:04:01; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 16:04:01; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 16:01:19; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 16:00:57; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 16:00:57; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 16:00:00; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 16:00:00; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 15:59:36; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 15:58:39; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 15:58:39; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 15:58:35; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 15:55:18; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 15:55:18; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 15:55:10; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 15:53:53; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 15:53:53; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 15:49:51; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 15:49:51; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 15:48:52; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 15:48:52; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 15:48:27; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 15:48:27; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 15:48:22; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 15:47:48; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 15:47:48; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 15:47:34; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 15:47:16; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 15:47:16; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 15:46:50; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 15:46:50; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 15:46:03; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 15:46:03; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 15:43:06; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 15:41:29; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 15:41:29; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 15:34:27; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 15:32:07; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 15:32:07; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 15:29:16; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 15:28:09; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 15:28:09; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 15:27:23; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 15:27:23; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 15:24:26; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 15:24:26; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 15:20:21; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 15:20:21; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 15:20:01; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 15:16:16; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 15:16:16; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 15:15:57; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 15:14:48; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 15:14:48; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 15:14:29; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 15:12:58; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 15:12:58; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+05.07.2023; 15:12:21; 	Error: Failed to set get and/or set time. Backend, function in line: 683
+05.07.2023; 15:10:38; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+05.07.2023; 15:10:38; 	Error: Failed to set GUI-parameters. Backend, function in line: 670
+02.07.2023; 08:54:55; 	Error: Failed to set get and/or set time. Backend, function in line: 681
+02.07.2023; 08:51:52; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+02.07.2023; 08:51:52; 	Error: Failed to set GUI-parameters. Backend, function in line: 668
+02.07.2023; 08:51:46; 	Error: Failed to set get and/or set time. Backend, function in line: 681
+02.07.2023; 08:49:19; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+02.07.2023; 08:49:19; 	Error: Failed to set GUI-parameters. Backend, function in line: 668
+28.06.2023; 15:33:41; 	Error: Failed to set get and/or set time. Backend, function in line: 681
+28.06.2023; 15:33:19; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 15:33:19; 	Error: Failed to set GUI-parameters. Backend, function in line: 668
+28.06.2023; 14:01:41; 	Error: Failed to set get and/or set time. Backend, function in line: 681
+28.06.2023; 14:01:39; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 14:01:27; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 14:00:34; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 13:55:48; 	Error: Failed to set get and/or set time. Backend, function in line: 681
+28.06.2023; 13:55:21; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 13:55:12; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 13:53:16; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 13:53:13; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 13:53:05; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 13:53:00; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 13:52:00; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 13:51:36; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 13:49:53; 	Error: Failed to set get and/or set time. Backend, function in line: 681
+28.06.2023; 13:49:49; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 13:49:22; 	Error: Failed to set get and/or set time. Backend, function in line: 681
+28.06.2023; 13:48:54; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 13:48:41; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 13:48:28; 	Error: Failed to set get and/or set time. Backend, function in line: 681
+28.06.2023; 13:48:23; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 13:47:46; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 13:47:11; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 13:46:08; 	Error: Failed to set get and/or set time. Backend, function in line: 681
+28.06.2023; 13:45:09; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 13:45:06; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 13:44:53; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 13:42:09; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 13:42:04; 	Error: Failed to set exposure time in manual mode. Backend, function in line: 366
+28.06.2023; 13:42:04; 	Error: Failed to set exposure time in manual mode. Backend, function in line: 366
+28.06.2023; 13:42:04; 	Error: Failed to set exposure time in manual mode. Backend, function in line: 366
+28.06.2023; 13:42:04; 	Error: Failed to set exposure time in manual mode. Backend, function in line: 366
+28.06.2023; 13:42:04; 	Error: Failed to set exposure time in manual mode. Backend, function in line: 366
+28.06.2023; 13:42:04; 	Error: Failed to set exposure time in manual mode. Backend, function in line: 366
+28.06.2023; 13:42:04; 	Error: Failed to set exposure time in manual mode. Backend, function in line: 366
+28.06.2023; 13:42:04; 	Error: Failed to set exposure time in manual mode. Backend, function in line: 366
+28.06.2023; 13:42:04; 	Error: Failed to set exposure time in manual mode. Backend, function in line: 366
+28.06.2023; 13:42:04; 	Error: Failed to set exposure time in manual mode. Backend, function in line: 366
+28.06.2023; 13:42:04; 	Error: Failed to set exposure time in manual mode. Backend, function in line: 366
+28.06.2023; 13:42:04; 	Error: Failed to set exposure time in manual mode. Backend, function in line: 366
+28.06.2023; 13:42:04; 	Error: Failed to set exposure time in manual mode. Backend, function in line: 366
+28.06.2023; 13:42:04; 	Error: Failed to set exposure time in manual mode. Backend, function in line: 366
+28.06.2023; 13:42:04; 	Error: Failed to set exposure time in manual mode. Backend, function in line: 366
+28.06.2023; 13:42:04; 	Error: Failed to set exposure time in manual mode. Backend, function in line: 366
+28.06.2023; 13:42:04; 	Error: Failed to set exposure time in manual mode. Backend, function in line: 366
+28.06.2023; 13:42:04; 	Error: Failed to set exposure time in manual mode. Backend, function in line: 366
+28.06.2023; 13:42:04; 	Error: Failed to set exposure time in manual mode. Backend, function in line: 366
+28.06.2023; 13:42:04; 	Error: Failed to set exposure time in manual mode. Backend, function in line: 366
+28.06.2023; 13:42:04; 	Error: Failed to set exposure time in manual mode. Backend, function in line: 366
+28.06.2023; 13:42:04; 	Error: Failed to set exposure time in manual mode. Backend, function in line: 366
+28.06.2023; 13:42:04; 	Error: Failed to set exposure time in manual mode. Backend, function in line: 366
+28.06.2023; 13:42:04; 	Error: Failed to set exposure time in manual mode. Backend, function in line: 366
+28.06.2023; 13:42:04; 	Error: Failed to set exposure time in manual mode. Backend, function in line: 366
+28.06.2023; 13:42:04; 	Error: Failed to set exposure time in manual mode. Backend, function in line: 366
+28.06.2023; 13:42:04; 	Error: Failed to set exposure time in manual mode. Backend, function in line: 366
+28.06.2023; 13:42:04; 	Error: Failed to set exposure time in manual mode. Backend, function in line: 366
+28.06.2023; 13:42:04; 	Error: Failed to set exposure time in manual mode. Backend, function in line: 366
+28.06.2023; 13:42:03; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 13:41:53; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 13:41:42; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 13:40:30; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 13:40:14; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 13:40:08; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 13:37:59; 	Error: Failed to set get and/or set time. Backend, function in line: 681
+28.06.2023; 13:37:35; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 13:37:31; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 13:37:27; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
+28.06.2023; 13:37:21; 	Error: Camera disconnected. First: Check connection to camera. Second: Restart program/timer. Backend, function in line: 165
